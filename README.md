@@ -1,3 +1,14 @@
+<img width="1898" height="886" alt="image" src="https://github.com/user-attachments/assets/0e1a0c7d-639c-4858-adec-46b8011d7ac6" />
+<img width="1907" height="892" alt="image" src="https://github.com/user-attachments/assets/ab777612-1189-4c38-88eb-edfd53a9b611" />
+<img width="1888" height="902" alt="image" src="https://github.com/user-attachments/assets/148d045f-9872-4237-a91c-ad9a9af756ed" />
+<img width="1871" height="892" alt="image" src="https://github.com/user-attachments/assets/8770aeab-df34-4661-b3c7-e3fc982f62db" />
+<img width="1871" height="855" alt="image" src="https://github.com/user-attachments/assets/22c04973-bb5c-4a27-b737-5ad406f7dc3c" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/b0522866-b799-4c97-95f4-5901a6c951e8" />
+
+
+
+
+
 # ResumeAI Evaluator
 
 **Made by CARL BENEDICT ELIPAN**
